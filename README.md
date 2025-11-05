@@ -1,6 +1,6 @@
 Smart Stay
 
-Project Idea
+Project Idea:
 
 Smart Stay is an innovative hotel concept that leverages Artificial Intelligence (AI) 
 and modern technology to provide guests with a smart and seamless stay 
@@ -13,7 +13,7 @@ waste reduction strategies, the project aims to offer a cutting-edge hospitality
 experience while minimizing its environmental impact, setting a benchmark for 
 eco-friendly hotels of the future.
 
-Team Members
+Team Members:
 
 1- Nadeen Safwat Sabry 
 
@@ -27,7 +27,7 @@ Team Members
 
 
 
-Work Plan
+Work Plan:
 
 
 1. Research & Analysis
@@ -47,6 +47,7 @@ Work Plan
 • Calm & premium hospitality feel.
 
 2. Visual Identity
+   
 • Logo Concept Exploration.
 
 • Color Palette & Typography.
@@ -64,6 +65,7 @@ Work Plan
 • Cups, Takeaway Box & Bag.
 
 4. Complementary Products
+   
 • Key card with its Cover.
 
 • ID of the Staff.
@@ -90,7 +92,7 @@ Work Plan
 
 
 
-Roles & Responsibilities
+Roles & Responsibilities:
 
 
 1- Nadeen Safwat Sabry (Team Leader)
@@ -100,11 +102,13 @@ Roles & Responsibilities
 • Secondary: Branding (Letterhead, Envelope), Generate Photos of the 
 Hotel, Final Presentation & GitHub.
 
+
 2- Sylvia Tarek Shaker
 
 • Primary: Robot, Patterns.
 
 • Secondary: Banner, Reviewing the Color Palette at the End.
+
 
 3- Rana Ahmed Mohamed
 
@@ -112,11 +116,13 @@ Hotel, Final Presentation & GitHub.
 
 • Secondary: Part of the Services Booklet.
 
+
 4- Alaa Mahmoud Saad
 
 • Primary: Instagram Puzzle, Business Card.
 
 • Secondary: Takeaway Cup, Box & Bag & Part of the Services Booklet.
+
 
 5- Esraa Sayed Ahmed
 
