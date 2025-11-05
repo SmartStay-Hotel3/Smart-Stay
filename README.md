@@ -26,7 +26,9 @@ Team Members
 5- Esraa Sayed Ahmed
 
 
+
 Work Plan
+
 
 1. Research & Analysis
    
@@ -87,7 +89,9 @@ Work Plan
 • Upload to GitHub or Drive.
 
 
+
 Roles & Responsibilities
+
 
 1- Nadeen Safwat Sabry (Team Leader)
 
@@ -121,7 +125,9 @@ Hotel, Final Presentation & GitHub.
 • Secondary: Part of the Services Booklet.
 
 
+
 Instructor
+
 
 ENG. Abeer Ismail
 
