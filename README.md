@@ -1,6 +1,6 @@
-Smart Stay
+# **Smart Stay**
 
-Project Idea:
+**Project Idea:**
 
 Smart Stay is an innovative hotel concept that leverages Artificial Intelligence (AI) 
 and modern technology to provide guests with a smart and seamless stay 
@@ -13,7 +13,7 @@ waste reduction strategies, the project aims to offer a cutting-edge hospitality
 experience while minimizing its environmental impact, setting a benchmark for 
 eco-friendly hotels of the future.
 
-Team Members:
+**Team Members:**
 
 1- Nadeen Safwat Sabry 
 
@@ -23,14 +23,14 @@ Team Members:
 
 4- Alaa Mahmoud Saad
 
-5- Esraa Sayed Ahmed
+5- Esraa Sayed Ahmed.
 
 
 
-Work Plan:
+**Work Plan:**
 
 
-1. Research & Analysis
+***1. Research & Analysis***
    
 • Target Audience Personas.
 
@@ -46,7 +46,7 @@ Work Plan:
 
 • Calm & premium hospitality feel.
 
-2. Visual Identity
+***2. Visual Identity***
    
 • Logo Concept Exploration.
 
@@ -56,7 +56,7 @@ Work Plan:
 
 • Brand tone & visual behavior consistency.
 
-3. Main Designs
+***3. Main Designs***
    
 • Instagram Puzzle.
 
@@ -64,7 +64,7 @@ Work Plan:
 
 • Cups, Takeaway Box & Bag.
 
-4. Complementary Products
+***4. Complementary Products***
    
 • Key card with its Cover.
 
@@ -74,7 +74,7 @@ Work Plan:
 
 • Mockups.
 
-5. Review & Finalization
+***5. Review & Finalization***
    
 • Collect insights and adjust visuals & messaging.
 
@@ -82,7 +82,7 @@ Work Plan:
 
 • Export assets in branding-ready formats (PNG, PDF, JPG….).
 
-6. Final Presentation
+***6. Final Presentation***
     
 • Behance Style Layout.
 
@@ -92,47 +92,47 @@ Work Plan:
 
 
 
-Roles & Responsibilities:
+**Roles & Responsibilities:**
 
 
-1- Nadeen Safwat Sabry (Team Leader)
+***1- Nadeen Safwat Sabry (Team Leader)***
 
-• Primary: Personas, Logo, Typography & Color Palette.
+• **Primary:** Personas, Logo, Typography & Color Palette.
 
-• Secondary: Branding (Letterhead, Envelope), Generate Photos of the 
+• **Secondary:** Branding (Letterhead, Envelope), Generate Photos of the 
 Hotel, Final Presentation & GitHub.
 
 
-2- Sylvia Tarek Shaker
+***2- Sylvia Tarek Shaker***
 
-• Primary: Robot, Patterns.
+•**Primary:** Robot, Patterns.
 
-• Secondary: Banner, Reviewing the Color Palette at the End.
-
-
-3- Rana Ahmed Mohamed
-
-• Primary: Key Card & Cover, Invoice.
-
-• Secondary: Part of the Services Booklet.
+• **Secondary:** Banner, Reviewing the Color Palette at the End.
 
 
-4- Alaa Mahmoud Saad
+***3- Rana Ahmed Mohamed***
 
-• Primary: Instagram Puzzle, Business Card.
+• **Primary:** Key Card & Cover, Invoice.
 
-• Secondary: Takeaway Cup, Box & Bag & Part of the Services Booklet.
-
-
-5- Esraa Sayed Ahmed
-
-• Primary: ID & Pin of the Uniform’s Staff.
-
-• Secondary: Part of the Services Booklet.
+• **Secondary:** Part of the Services Booklet.
 
 
+***4- Alaa Mahmoud Saad***
 
-Instructor
+• **Primary:** Instagram Puzzle, Business Card.
+
+• **Secondary:** Takeaway Cup, Box & Bag.
+
+
+***5- Esraa Sayed Ahmed***
+
+• **Primary:** ID & Pin of the Uniform’s Staff.
+
+• **Secondary:** Part of the Services Booklet.
+
+
+
+**Instructor**
 
 
 ENG. Abeer Ismail
