@@ -117,9 +117,9 @@ __________
 
 ***3- Rana Ahmed Mohamed***
 
-• **Primary:** Key Card & Cover, Invoice.
+• **Primary:** Key Card & Cover.
 
-• **Secondary:** Part of the Services Booklet.
+• **Secondary:** Services Booklet.
 __________
 
 ***4- Alaa Mahmoud Saad***
@@ -133,7 +133,7 @@ __________
 
 • **Primary:** ID & Pin of the Uniform’s Staff.
 
-• **Secondary:** Part of the Services Booklet.
+• **Secondary:** Invoice.
 __________
 
 
